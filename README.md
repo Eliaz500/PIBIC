@@ -15,4 +15,4 @@ Coluna TX_RESP_Q012 - [https://colab.research.google.com/drive/1FkU_yRge2kQf5J4i
 
 Coluna TX_RESP_Q013 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
 
-Coluna TX_RESP_Q014 - [https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing]
+Coluna TX_RESP_Q014 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
