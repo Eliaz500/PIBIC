@@ -4,3 +4,7 @@ Pesquisa usando aprendizagem de máquina referente aos alunos da rede pública d
 # Links do Colab das derivações de Variáveis
 
 Coluna TX_RESP_Q002 - https://colab.research.google.com/drive/1N-bey9fa7_cg91RchyjN2p6lGs6NFIEr?usp=drive_link
+
+Coluna TX_RESP_Q005 - https://colab.research.google.com/drive/1XBFVAQ7-LqMVqBjm8qpgZSPt1xzpYg3Q?usp=drive_link
+
+Coluna TX_RESP_Q008 - [https://colab.research.google.com/drive/1XBFVAQ7-LqMVqBjm8qpgZSPt1xzpYg3Q?usp=drive_link](https://colab.research.google.com/drive/1KDUFq-ZNdnB0GeQcYannTDb4yMYA296D?usp=sharing)
