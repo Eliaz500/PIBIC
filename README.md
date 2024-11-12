@@ -12,3 +12,5 @@ Coluna TX_RESP_Q008 - [https://colab.research.google.com/drive/1XBFVAQ7-LqMVqBjm
 Coluna TX_RESP_Q011 - https://colab.research.google.com/drive/1FkU_yRge2kQf5J4iLYDHpLBh-2v-3eod?usp=drive_link
 
 Coluna TX_RESP_Q012 - [https://colab.research.google.com/drive/1FkU_yRge2kQf5J4iLYDHpLBh-2v-3eod?usp=drive_link](https://colab.research.google.com/drive/1_76veaV5LL01qFAV35N1xbQgaM1yAA6R?usp=drive_link)
+
+Coluna TX_RESP_Q013 - [[https://colab.research.google.com/drive/1FkU_yRge2kQf5J4iLYDHpLBh-2v-3eod?usp=drive_link](https://colab.research.google.com/drive/1_76veaV5LL01qFAV35N1xbQgaM1yAA6R?usp=drive_link)](https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0#scrollTo=g8EtOQ1fEJ_U)
