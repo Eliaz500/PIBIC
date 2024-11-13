@@ -24,3 +24,5 @@ Coluna TX_RESP_Q016 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5
 Coluna TX_RESP_Q017 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
 
 Coluna TX_RESP_Q018 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
+
+Coluna TX_RESP_Q019 - https://colab.research.google.com/drive/1lmWLSTCGfWVcVuVHGqNBGIij0feOHcx2?usp=sharing
