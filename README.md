@@ -17,7 +17,7 @@ Coluna TX_RESP_Q013 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5
 
 Coluna TX_RESP_Q014 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
 
-Coluna TX_RESP_Q015 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
+Coluna TX_RESP_Q015 - https://colab.research.google.com/drive/1wad6ZLWhJQvtfc0YjSMEzAXOgpEvwDQy
 
 Coluna TX_RESP_Q016 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
 
