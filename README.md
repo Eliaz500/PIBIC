@@ -15,14 +15,16 @@ Coluna TX_RESP_Q012 - [https://colab.research.google.com/drive/1FkU_yRge2kQf5J4i
 
 Coluna TX_RESP_Q013 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
 
-Coluna TX_RESP_Q014 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
+Coluna TX_RESP_Q014 - https://colab.research.google.com/drive/1qbXdKX-UMHedxM3Z6qHglC1H0h5o9UhX
 
 Coluna TX_RESP_Q015 - https://colab.research.google.com/drive/1wad6ZLWhJQvtfc0YjSMEzAXOgpEvwDQy
 
 Coluna TX_RESP_Q016 - https://colab.research.google.com/drive/15fJ0xEuD3knh1ZbUv3jmbYxiqWACInSJ
 
-Coluna TX_RESP_Q017 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
+Coluna TX_RESP_Q017 - https://colab.research.google.com/drive/1unGt3Jr0vHUfzaBNQp9x2vfKZitbArXB
 
-Coluna TX_RESP_Q018 - https://colab.research.google.com/drive/1rc11ntcYMHdzTPff5n35cVJE95BMxkK0?usp=sharing
+Coluna TX_RESP_Q018 - https://colab.research.google.com/drive/1OmEP3fJFTE_8UC7HpyDx9U_g3PwRAEFN
 
 Coluna TX_RESP_Q019 - https://colab.research.google.com/drive/1lmWLSTCGfWVcVuVHGqNBGIij0feOHcx2?usp=sharing
+
+Coluna TX_RESP_Q020 - https://colab.research.google.com/drive/10eeyz1fOnRW_XCsQ9FOQROMeT2J4HePo
