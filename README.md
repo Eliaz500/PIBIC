@@ -38,3 +38,5 @@ Coluna TX_RESP_Q023 -https://colab.research.google.com/drive/13hUWQjONApsT2r6Ayg
 Coluna TX_RESP_Q024 -https://colab.research.google.com/drive/1YYafwiHwyDdOq4vCcc6nCAAXXbXTVLBm
 
 Coluna TX_RESP_Q025 -https://colab.research.google.com/drive/1jhKTC_oL8ORPuWQkzsIDl3PDs5m2n0Rj
+
+Coluna TX_RESP_Q026 -https://colab.research.google.com/drive/1IZ2bxF8zobYK4PuTAU2dCjmhStBRKgTN
